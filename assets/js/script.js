@@ -1,0 +1,1 @@
+console.log("Tyrolium chargé avec succès");
