@@ -2,7 +2,7 @@
 $host = 'localhost';
 $dbname = 'tyrolium';
 $user = 'root';
-$pass = '';
+$pass = 'root';
 
 try {
     $pdo = new PDO(
